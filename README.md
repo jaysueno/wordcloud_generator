@@ -1,5 +1,5 @@
 # Word Cloud Generator 
-### Code developed by Jay Sueno using Python, Jupyter Notebooks, Matplotlib, BeautifulSoup, wordcloud, re, and urllib
+#### Code developed by Jay Sueno using Python, Jupyter Notebooks, Matplotlib, BeautifulSoup, wordcloud, re, and urllib
 
 <br>
 
